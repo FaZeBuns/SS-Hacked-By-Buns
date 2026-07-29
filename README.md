@@ -13,7 +13,7 @@
 ## Download
 
 Get the IPA from the latest **[Release](https://github.com/FaZeBuns/SS-Hacked-By-Buns/releases/latest)**  
-File: `SS_Hacked_By_Buns.ipa`
+File: `SS_Hacked_By_Buns.ipa` (~209 MB)
 
 ## Features
 
