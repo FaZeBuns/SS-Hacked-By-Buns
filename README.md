@@ -1,5 +1,9 @@
 # Subway Surfers HACKED BY BUNS
 
+<p align="center">
+  <img src="assets/SS.PNG" alt="Subway Surfers HACKED BY BUNS" width="220" />
+</p>
+
 > **This is NOT the official Subway Surfers app.**  
 > Custom sideload IPA by **Buns** for YouTube subscribers.  
 > Not affiliated with SYBO / Kiloo.
